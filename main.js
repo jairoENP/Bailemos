@@ -19,18 +19,8 @@ const pedirBaile = () => {
     return baile;
 }
 
-
-
  button.addEventListener('click',() => {
      h1.innerText = pedirBaile();
 })
-
-
-
-// for(let i = 0; i < trueLenght; i++){
-    
-//       nuevoBaile = h1.innerText = pedirBaile();
-     
-// }
 
 
